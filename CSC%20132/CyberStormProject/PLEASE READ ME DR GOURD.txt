@@ -1,0 +1,10 @@
+# Each button affects either the current team's or every team's score either positively or negatively in a unique way.
+# The instruction file MUST be distributed to each team.
+# Hidden in the hex of the instruction file is a secret text file that explains what all the buttons do.
+# Any team that finds this would have a huge advantage.
+# You might have to run this in IDLE.  We had trouble running it from the terminal because of the non-ASCII characters.
+# .wav's and .gif's will only load if they have the same name as the teams.
+# This should make it very easy to maintain.
+
+
+# Also, we have no bill of parts.
